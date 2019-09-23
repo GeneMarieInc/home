@@ -1,0 +1,8 @@
+{
+  "appService.defaultWebAppToDeploy": "/subscriptions/1322671c-c13b-4b05-9e66-13c94b9d60a0/resourceGroups/Default-Web-WestUS/providers/Microsoft.Web/sites/genemarie",
+  "appService.deploySubpath": "",
+  "appService.zipIgnorePattern": [
+    "node_modules{,/**}",
+    ".vscode{,/**}"
+  ]
+}
