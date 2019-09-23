@@ -98,6 +98,17 @@ input, select, textarea {
 	color: var(--main-swatch-7);
 }
 
+.landing-page__product_scan {
+	height: 15%;
+}
+
+.landing-page__product_current-view,
+.landing-page__product_history-view {
+	height: 15%;
+}
+
+
+
 /* Basic */
 
 	@-ms-viewport {
