@@ -98,16 +98,9 @@ input, select, textarea {
 	color: var(--main-swatch-7);
 }
 
-.landing-page__product_scan {
-	height: 15%;
+.feature-product {
+	height: 70%;
 }
-
-.landing-page__product_current-view,
-.landing-page__product_history-view {
-	height: 15%;
-}
-
-
 
 /* Basic */
 
@@ -2858,6 +2851,7 @@ input, select, textarea {
 			margin-left: 2em;
 			margin-top: 3em;
 			padding: 0;
+			height: 400px;
 		}
 
 			.features li:nth-child(1), .features li:nth-child(2), .features li:nth-child(3) {
